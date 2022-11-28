@@ -1,0 +1,9 @@
+<form class="" action="amy.abalo20@gmail.com" method ="post">
+        <label>Your Name: Amy Abalo </label>
+        <input type="text" name="" value=""><br>
+        <label>Your Email: amy.abalo20@gmail.com </label>
+        <input type="email" name="" value=""><br>
+        <label>Your Message: I love you </label><br>
+        <textarea name="name" rows="10" cols="30"></textarea><br>
+        <input type="submit" name="">
+    </form>
